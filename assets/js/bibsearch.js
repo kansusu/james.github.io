@@ -22,7 +22,6 @@ document.addEventListener("DOMContentLoaded", function () {
           element.classList.add("unloaded");
         }
       });
-  
     }
 
     document.querySelectorAll("h2.bibliography").forEach(function (element) {

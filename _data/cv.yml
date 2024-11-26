@@ -13,45 +13,42 @@
   contents:
     - title: PhD
       institution: University of Massachusetts, Amherst
-      year: 
+      year:
       # description:
       #   - Description 1.
       #   - Description 2.
     - title: B.S.
       institution: Massachusetts Institute of Technology
-      year: 
+      year:
       # description:
       #   - Description 1.
       #   - Description 2.
-
 
 - title: Work
   type: time_table
   contents:
     - title: TJX Feldberg Professor of Computer Science and of the Volen National Center for Complex Systems
       institution: Michtom School of Computer Science, Brandeis University
-      # year: 
+      # year:
       # description:
       #   - Description 1.
       #   - Description 2.
-       
+
     - title: Affiliated Faculty
       institution: Interdepartmental Program in Linguistics and Computational Linguistics, Brandeis University
-      # year: 
+      # year:
       # description:
       #   - Description 1.
       #   - Description 2.
 
     - title: Chair
       institution: Interdepartmental Program in Linguistics and Computational Linguistics, Brandeis University
-      # year: 
+      # year:
 
     - title: Affiliated Faculty
       institution: Benjamin and Mae Volen National Center for Complex Systems, Brandeis University
-      # year: 
+      # year:
       # description:
-
-
 # - title: Open Source Projects
 #   type: time_table
 #   contents:

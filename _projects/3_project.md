@@ -18,7 +18,4 @@ importance: 1
        The focus of research in Generative Lexicon Theory is on the computational and cognitive modeling of natural language meaning. More specifically, the investigation is in how words and their meanings combine to make meaningful texts. This research has focused on developing a lexically oriented theory of semantics, based on a methodology making use of formal and computational semantics. That is, we are looking at how word meaning in natural language might be characterized both formally and computationally, in order to account for both the subtle use of words in different sentences, as well as the creative use of words in novel contexts. One of the major goals in our current research, therefore, is to study polysemy, ambiguity, and sense shifting phenomena in different languages.
     </div>
 
-   
 </div>
-
-

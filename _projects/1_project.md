@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Dense Paraphasing
-description: 
+description:
 img: assets/img/1.jpg
 importance: 1
 category: work
@@ -38,6 +38,7 @@ dynamic changes that actions and events impose on objects in the text.</p>
     <div class="caption" style="text-align: left;">
         Description for the second image: Another key visual that complements the project.
     </div>
+
 </div>
 
 <!-- Optional: add regular text between or after the images -->

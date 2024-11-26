@@ -2,7 +2,7 @@
 layout: about
 title: Home
 banner_image: "assets/img/Picture1.png"
-title_link: "https://www.brandeis.edu/computer-science/"  # 
+title_link: "https://www.brandeis.edu/computer-science/" #
 permalink: /
 subtitle: TJX/Feldberg Chair of Computer Science
 

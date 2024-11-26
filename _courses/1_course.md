@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "COSI115B <br> Fundamentals of Natural Language Processing"
-description: 
+description:
 img: assets/img/compLingHead_catalyst.png
 importance: 1
 # category: work
@@ -30,6 +30,7 @@ redirect: https://cs-114.org
     <div class="caption" style="text-align: left;">
         Description for the second image: Another key visual that complements the project.
     </div>
+
 </div>
 
 <!-- Optional: add regular text between or after the images -->

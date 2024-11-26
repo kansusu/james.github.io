@@ -1,7 +1,7 @@
 ---
 layout: page
 title: iSAT
-description: 
+description:
 img: assets/img/isat_classroom_graphic_only_2022_0.jpg
 importance: 3
 category: fun
@@ -21,8 +21,7 @@ category: fun
     <p>The NSF AI Institute for Student-AI Teaming (iSAT) is centered around the question: how to promote deep conceptual learning via rich socio-collaborative learning experiences for all students?</p>
 
     <p>The goal of iSAT is to develop an AI Partner that will guide and scaffold learning conversations among students, as well as help teachers orchestrate effective collaborative learning experiences. Believing that natural, multimodal interaction will deepen engagement with the AI Partner, we have been developing methods for representing and interpreting the meanings expressed in gesture and other forms of nonverbal communication. For example, our lab has extended Abstract Meaning Representation to gesture and action, allowing us to analyze the alignment of these modalities with language. We are also working on approaches for gesture and posture detection and classification in video. Finally, we have created an annotation scheme and dataset for tracking common ground in dialogue.</p>
+
 </div>
    
 </div>
-
-

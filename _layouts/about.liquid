@@ -2,34 +2,36 @@
 layout: default
 ---
 <div class="post">
-
-<!-- Title with Image Next to It -->
+  <!-- Title with Image Next to It -->
   <div class="banner-title">
     <div class="title-image-container" style="display: flex; align-items: center;">
       <!-- Image on the left -->
-      <img src="{{ page.title_image | prepend: 'assets/img/brandeisunivseal.png' }}" alt="Title Image" 
-           style="width: 90px; height: 90px; margin-right: 10px; object-fit: contain; border-radius: 100%;">
+      <img
+        src="{{ page.title_image | prepend: 'assets/img/brandeisunivseal.png' }}"
+        alt="Title Image"
+        style="width: 90px; height: 90px; margin-right: 10px; object-fit: contain; border-radius: 100%;"
+      >
       <!-- Title on the right -->
       <h2 style="font-size: 40px; font-weight: bold; margin-bottom: 20px;">
-        <a href="{{ page.title_link | default: '/' }}" style="color: #333; text-decoration: none;">
-          Brandeis Department of Computer Science
-        </a>
+        <a href="{{ page.title_link | default: '/' }}" style="color: #333; text-decoration: none;"> Brandeis Department of Computer Science </a>
       </h2>
     </div>
   </div>
 
-
-<!-- Banner Image -->
+  <!-- Banner Image -->
   <div class="banner">
-  <img src="{{ page.banner_image | prepend: '' }}" 
-       srcset="{{ page.banner_image | prepend: '' }} 1920w, 
-               {{ page.banner_image | prepend: '' | replace: '.jpg', '-small.jpg' }} 768w" 
-       sizes="(min-width: 1024px) 100vw, 50vw"
-       alt="Banner Image" 
-       class="img-fluid w-100" 
-       style="object-fit: cover; border-radius: 10px;">
+    <img
+      src="{{ page.banner_image | prepend: '' }}"
+      srcset="
+        {{ page.banner_image | prepend: '' }} 1920w,
+        {{ page.banner_image | prepend: '' | replace: '.jpg', '-small.jpg' }} 768w
+      "
+      sizes="(min-width: 1024px) 100vw, 50vw"
+      alt="Banner Image"
+      class="img-fluid w-100"
+      style="object-fit: cover; border-radius: 10px;"
+    >
   </div>
-  
 
   <header class="post-header">
     <h1 class="post-title">

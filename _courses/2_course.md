@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "COSI135 <br> Computational Semantics"
-description: 
+description:
 img: assets/img/image.png
 importance: 2
 # category: work
