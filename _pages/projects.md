@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Research areas covered by Lab for Linguistics and Computation (LLC) include lexical semantics and the design of lexical databases; compositional mechanisms in language; multimodal communication between humans and computers; interoperability among language resources and natural language processing tools; temporal and spatial reasoning; formal models of speaker-meaning and discourse-level computations; extra-linguistic factors that affect truth-conditions, and the way they enter into the meaning computation; semantic and pragmatic models of modality and reference; semantic annotation and resource development; construction and analysis of linguistic corpora; discourse structure and relation identification.
 nav: true
-nav_order: 3
-display_categories: [work, fun]
+nav_order: 1
+# display_categories: [work, fun]
 horizontal: false
 ---
 

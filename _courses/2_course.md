@@ -1,10 +1,12 @@
 ---
 layout: page
-title: TRACE / FACT
-description: a project with no image
-img:
-importance: 4
-category: fun
+title: "COSI135 <br> Computational Semantics"
+description: 
+img: assets/img/image.png
+importance: 2
+# category: work
+giscus_comments: true
+redirect: http://www.cs-135.org
 ---
 
 Every project has a beautiful feature showcase page.

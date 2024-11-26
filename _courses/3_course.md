@@ -1,9 +1,10 @@
 ---
 layout: page
-title: Generative Lexicon Theory
-description: description on the projects page
-img: assets/img/generative lexicon.jpg
+title: "COSI112<br> Modal, Temporal, and Spatial Logics"
+description: 
+img: assets/img/image (1).png
 importance: 1
+redirect: http://cs112.org
 ---
 
 <!-- Main content of the project -->
@@ -21,4 +22,5 @@ importance: 1
    
 </div>
 
-
+<!-- Optional: add regular text between or after the images -->
+<p style="text-align: left;">This project focuses on understanding how dense paraphrasing can be effectively implemented in natural language processing tasks. The research explores various algorithms and models for improving paraphrasing performance.</p>

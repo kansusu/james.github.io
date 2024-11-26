@@ -1,11 +1,12 @@
 ---
 layout: page
-title: Dense Paraphasing
+title: "COSI115B <br> Fundamentals of Natural Language Processing"
 description: 
-img: assets/img/1.jpg
+img: assets/img/compLingHead_catalyst.png
 importance: 1
-category: work
+# category: work
 related_publications: true
+redirect: https://cs-114.org
 ---
 
 <!-- Main content of the project -->
@@ -16,17 +17,8 @@ related_publications: true
             {% include figure.liquid loading="eager" path="assets/img/1.jpg" title="Project image 1" class="img-fluid rounded z-depth-1" %}
         </div>
     </div>
-    <div class="caption" style="text-align: left; font-size: 1.1rem;">
-    <p>The Dense Paraphrasing project develops an approach to enrich the surface form of natural language texts, using
-type-based semantic operations to textually expose the deeper meaning of the corpus that was used
-to make the original embeddings in the language model. </p>
-<p>Dense paraphrasing (DP) model is a linguistically-motivated textual enrichment strategy that explicitly realizes the otherwise elided
-compositional operations inherent in the meaning of the language. This involves broadly three
-kinds of interpretive processes: (i) recognizing the diverse variability in linguistic forms that can be
-associated with the same underlying semantic representation (paraphrases); (ii) identifying semantic
-factors or variables that accompany or are presupposed by the lexical semantics of the words present
-in the text, through dropped, hidden or shadow arguments; and (iii) interpreting or computing the
-dynamic changes that actions and events impose on objects in the text.</p>
+    <div class="caption" style="text-align: left;">
+        Description for COSI115
     </div>
 
     <div class="row">
